@@ -1,0 +1,1 @@
+Developed a Java-based Chess game for MacOS terminal and allows the user to input moves. It administers various scenarios such as checkmate, en-passant, stalemate, pawn promotion, draws, castling and utilizes OOP concepts like abstract classes and inheritance to ensure modularity and functionality
